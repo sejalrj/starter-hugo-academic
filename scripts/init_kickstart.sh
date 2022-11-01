@@ -6,7 +6,7 @@
 cd ..
 source update_academic.sh
 cd scripts/
-
+ 
 #################################################
 
 # Install demo config
